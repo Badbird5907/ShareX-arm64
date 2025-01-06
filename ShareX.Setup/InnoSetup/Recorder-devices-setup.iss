@@ -8,8 +8,8 @@
 AppName={#MyAppName}
 AppVerName={#MyAppName} {#MyAppVersion}
 AppVersion={#MyAppVersion}
-ArchitecturesAllowed=x86 x64 arm64 ia64
-ArchitecturesInstallIn64BitMode=x64 ia64 arm64
+ArchitecturesAllowed=x86 x64 arm64
+ArchitecturesInstallIn64BitMode=x64 arm64
 DefaultDirName={commonpf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 OutputBaseFilename=Recorder-devices-setup
